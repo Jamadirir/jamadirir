@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 I Wish All of my projects are available at **[My gitHub account](https://jamafarah2522.com)**
+- 👨‍💻 I Wish All of my projects are available at **[My gitHub account](https://github.com/Jamadirir)**
 
 - 📫 How to reach me **jamafarah2522.com**
 
@@ -67,14 +67,7 @@
 <br/>
 
 ## Connect with me:
-<p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "http://instagram.com/jama_dirir/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-
-</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
