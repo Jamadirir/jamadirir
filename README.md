@@ -14,7 +14,7 @@
 
 - 👨‍💻 I Wish All of my projects are available at **[My gitHub account](https://github.com/Jamadirir)**
 
-- 📫 How to reach me **jamafarah2522.com**
+- 📫**My Hobbies**
 
 - ⚡ Fun fact **I play footbool and go to the swimming very often.**
 
