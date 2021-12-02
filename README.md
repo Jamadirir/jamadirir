@@ -6,8 +6,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently on the road of my dream ****
-
 - 🌱 I’m a **Web Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
