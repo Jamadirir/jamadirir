@@ -1,14 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jama</h1>
-<h3 align="center">Full Stack web Developer from somalia.</h3>
+<h3 align="center">Developers Iam from somalia.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m a **Web Developer**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Full stack developer**
 
 - 👨‍💻 I Wish All of my projects are available at **[My gitHub account](https://github.com/Jamadirir)**
 
