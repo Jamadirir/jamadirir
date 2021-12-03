@@ -7,7 +7,7 @@
       🧑‍💻 Bachelar degree of computer application
                          From
         *Jamhuriya University of Science and Technology*
-                 ( https://just.edu.so/ )
+                   https://just.edu.so
 
 - 🌱 I’m a **Web Developer**
 
