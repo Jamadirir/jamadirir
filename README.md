@@ -4,9 +4,10 @@
 <h3 align="center">Iam from somalia.</h3>
 ## 🙋‍♂️ About Me
 
-      🧑‍💻 Bachelar degree of computer application from
-        **Jamhuriya University of Science and Technology**
-         https://just.edu.so/
+      🧑‍💻 Bachelar degree of computer application
+                         From
+        *Jamhuriya University of Science and Technology*
+                 ( https://just.edu.so/ )
 
 - 🌱 I’m a **Web Developer**
 
