@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
       🧑‍💻 Bachelar degree of computer application from
-        *Jamhuriya University of Science and Technology*
+        **Jamhuriya University of Science and Technology**
          https://just.edu.so/
 
 - 🌱 I’m a **Web Developer**
