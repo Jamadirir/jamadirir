@@ -1,10 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jama</h1>
-<h3 align="center">Iam from somalia.</h3>
+<h3 align="center">Iam from somalia..</h3>
 
 
 ## 🙋‍♂️ About Me
+-💬 computer application student from Jamhuriya University of Science and Technology( https://just.edu.so/ )
 
 - 🌱 I’m a **Web Developer**
 
