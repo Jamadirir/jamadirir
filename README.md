@@ -3,9 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jama</h1>
 <h3 align="center">Iam from somalia.</h3>
 ## 🙋‍♂️ About Me
+
     • 🧑‍💻 Bachelar degree of computer application from
         *Jamhuriya University of Science and Technology*
          https://just.edu.so/
+
 - 🌱 I’m a **Web Developer**
 
 - 👯 I’m looking to collaborate on **Full stack developer**
