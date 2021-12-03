@@ -8,7 +8,7 @@
                          From
         *Jamhuriya University of Science and Technology*
 
-                   https://www.java.com
+                    (https://www.just.edu)
 
 - 🌱 I’m a **Web Developer**
 
